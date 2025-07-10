@@ -4,7 +4,7 @@ module.exports = {
   facts: {
     'Residencia': '<a href="https://www.google.com/maps/place/Buenos+Aires,+Argentina"><i class="fa fa-home fact-icon"></i>Buenos Aires</a>',
     'GitHub': `<a href="https://github.com/ivn-gonzalez"><i class="fa-brands fa-github fact-icon"></i>github.com/ivn-gonzalez</a>`,
-    'Linkedin': `<a href="https://www.linkedin.com/in/ivn-gonzalez"><i class="fa-brands fa-twitter fact-icon"></i>in/ivn-gonzalez</a>`,
+    'Linkedin': `<a href="https://www.linkedin.com/in/ivn-gonzalez"><i class="fa-brands fa-linkedin fact-icon"></i>in/ivn-gonzalez</a>`,
     'Email': '<a href="mailto:gonzalez.eivan98@gmail.com"><i class="fa fa-envelope fact-icon"></i>gonzalez.eivan98@gmail.com</a>'
   },
   skills: [
