@@ -1,47 +1,56 @@
-# The Curriculum Vitae Template
+# Mi Curriculum Vitae en GitHub Pages
 
-You are a fantastic developer. Keep your CV on GitHub, exploiting Node.js GitHub action. Host it on GitHub Pages. Have both HTML and PDF versions automatically generated and consistent.
+Este proyecto es una versión personalizada del excelente template de CV de [sneas/cv](https://github.com/sneas/cv), adaptado por mí para mostrar mi perfil como desarrollador backend.
 
-<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/nodejs.svg" alt="nodejs Logo" width="40" height="40" /> &nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/npm.svg" alt="npm Logo" width="40" height="40" /> &nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/html.svg" alt="html Logo" width="40" height="40" /> &nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/css.svg" alt="css Logo" width="40" height="40" /> &nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/js.svg" alt="js Logo" width="40" height="40" /> 
+Está publicado en GitHub Pages y contiene tanto una versión web como una versión lista para imprimir en PDF.
 
-## What does this project do?
+---
 
-* Helps you to manage your CV as a web app (HTML + CSS + JS).
-* Automatically generates and publishes HTML and PDF version on every push to `main`.
+## 📄 ¿Qué incluye?
 
-Demo: [http://sneas.github.io/cv-template](http://sneas.github.io/cv-template).
+- CV online hecho con **HTML**, **CSS**, **JavaScript** y **HandlebarsJS**.
+- Sección de habilidades, experiencia profesional, educación y más.
+- Diseño responsive, listo para impresión o exportación a PDF.
+- Código limpio y mantenible, sin frameworks pesados.
+- No requiere instalación ni dependencias para visualizarlo.
 
-Real world example: [http://sneas.github.io/cv](http://sneas.github.io/cv).
+---
 
-## Motivation
+## 🌐 Ver en línea
 
-GitHub Pages is probably the best place developer could store their CV. Giving a potential employer a link to your CV stored on GitHub shows your intense desire for automation and stands you out.
+👉 [https://ivn-gonzalez.github.io](https://ivn-gonzalez.github.io)
 
-The idea behind **The Curriculum Vitae Template** is to provide anyone with a quick solution for creating and managing CVs (both HTML and PDF versions) with the help of GitHub.
+---
 
-## Installation
+## ✏️ Personalización
 
-1. Create a new repo out of this template by clicking [this link](https://github.com/sneas/cv-template/generate).
-1. Clone the newly created repo.
-1. Install project dependencies with `npm install`.
-1. Run `npm run deploy` to initialize `gh-pages`. This is a one time action. Further deployments will be initiated by GitHub Actions on every push to `main`.
+El diseño original fue tomado como base y completamente editado:
+- Reescribí el contenido para reflejar mi experiencia real
+- Rediseñé la estructura de educación y experiencia
+- Eliminé dependencias de generación automática de PDF y Node.js
+- Adapté todo el contenido manualmente para mantenerlo simple y directo
 
-## Usage
+---
 
-1. Start local development server with `npm start`.
-1. Update contents of `src` folder to fit your needs. This item is explained [below](#update-contents).
-1. Commit and push your changes.
-1. GitHub Actions will automatically build the latest version and deploy it to GitHub Pages.
-1. Open `http://your-username.github.io/your-cv-repo`.
+## 🤝 Créditos
 
-### Update contents
+Template original:  
+**The Curriculum Vitae Template** – por [@sneas](https://github.com/sneas)
 
-The project uses [HandlebarsJS](https://github.com/wycats/handlebars.js/) as a template engine.
+Inspirado también por el ejemplo visual de Shakespeare:  
+[https://sneas.github.io/cv](https://sneas.github.io/cv)
 
-The main HTML template is located in [src/templates/index.html](src/templates/index.html). Metadata for the template could be found in [src/metadata/metadata.js](src/metadata/metadata.js).
+---
 
-Don't forget to update [src/assets/favicon.ico](src/assets/favicon.ico). You can generate a new favicon out of your photo with [icoconvert.com](http://icoconvert.com/).
+## 🛠️ Tecnologías usadas
+
+<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/html.svg" alt="html Logo" width="40" />
+<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/css.svg" alt="css Logo" width="40" />
+<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/js.svg" alt="js Logo" width="40" />
+<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/github.svg" alt="GitHub Pages Logo" width="40" />
+
+---
+
+## 📬 Contacto
+Podés ver más sobre mí en:  
+[LinkedIn](https://www.linkedin.com/in/ivn-gonzalez) – [GitHub](https://github.com/ivn-gonzalez)
