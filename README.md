@@ -27,7 +27,6 @@ Está publicado en GitHub Pages y contiene tanto una versión web como una versi
 El diseño original fue tomado como base y completamente editado:
 - Reescribí el contenido para reflejar mi experiencia real
 - Rediseñé la estructura de educación y experiencia
-- Eliminé dependencias de generación automática de PDF y Node.js
 - Adapté todo el contenido manualmente para mantenerlo simple y directo
 
 ---
