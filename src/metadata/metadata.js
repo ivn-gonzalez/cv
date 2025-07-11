@@ -23,8 +23,8 @@ module.exports = {
   positions: [
     {
       title: 'Backend Developer en Contabilium',
-      period: '2021 – 2024',
-      skills: ['PHP', 'Laravel', 'APIs', 'SQL', 'automatización'],
+      period: '2022 – 2023',
+      skills: ['PHP', 'Laravel', 'APIs', 'SQL', 'MongoDb', 'Redis', 'Automatización'],
       contents: `
 Desarrollé y mantuve APIs RESTful para integrar módulos contables con terceros.  
 Implementé scripts de automatización de tareas administrativas y migraciones masivas de datos.  
