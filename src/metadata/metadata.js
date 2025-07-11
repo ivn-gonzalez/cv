@@ -1,6 +1,6 @@
 module.exports = {
   name: 'Iván Gonzalez',
-  title: 'Backend Developer · PHP/Laravel',
+  title: 'Backend Developer',
   facts: {
     'Residencia': '<a href="https://www.google.com/maps/place/Buenos+Aires,+Argentina"><i class="fa fa-home fact-icon"></i>Buenos Aires</a>',
     'GitHub': `<a href="https://github.com/ivn-gonzalez"><i class="fa-brands fa-github fact-icon"></i>github.com/ivn-gonzalez</a>`,
@@ -8,18 +8,17 @@ module.exports = {
     'Email': '<a href="mailto:gonzalez.eivan98@gmail.com"><i class="fa fa-envelope fact-icon"></i>gonzalez.eivan98@gmail.com</a>'
   },
   skills: [
-    ['PHP', 95],
-    ['Laravel', 90],
-    ['SQL', 85],
-    ['Redis', 70],
-    ['Linux CLI', 80],
-    ['Git / GitHub', 90],
-    ['Docker (uso)', 60],
-    ['APIs REST', 85],
-    ['Postman', 80],
-    ['MongoDB', 60],
-    ['Inglés técnico', 40],
-    ['Trabajo en equipo', 85],
+    ['PHP'],
+    ['Laravel'],
+    ['SQL'],
+    ['Redis'],
+    ['Linux CLI'],
+    ['Git / GitHub'],
+    ['Docker'],
+    ['APIs REST'],
+    ['Postman'],
+    ['MongoDB'],
+    ['Trabajo en equipo'],
   ],
   positions: [
     {
@@ -46,7 +45,7 @@ Familiaridad con herramientas de testing, control de versiones y entornos Docker
     },
     {
       header: 'Colaboración y aprendizaje',
-      skills: ['trabajo en equipo', 'autodidacta', 'scrum'],
+      skills: ['Trabajo en equipo', 'Autodidacta', 'Scrum'],
       contents: `
 He trabajado en equipos de distintas metodologías (Scrum, Kanban, Waterfall),  
 me adapto a distintos entornos de desarrollo y mantengo una actitud autodidacta constante.  
