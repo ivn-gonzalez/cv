@@ -18,7 +18,7 @@ module.exports = {
     ['APIs REST'],
     ['Postman'],
     ['MongoDB'],
-    ['Trabajo en equipo'],
+    ['IA aplicada'],
   ],
   positions: [
     {
@@ -44,8 +44,8 @@ Familiaridad con herramientas de testing, control de versiones y entornos Docker
 `
     },
     {
-      header: 'Colaboración y aprendizaje',
-      skills: ['Trabajo en equipo', 'Autodidacta', 'Scrum'],
+      header: 'Habilidades blandas',
+      skills: ['Resolución de problemas bajo presión', 'Integración y liderazgo informal en equipos', 'Curiosidad y aprendizaje autodidacta', 'Capacidad de adaptación a contextos dinámicos'],
       contents: `
 He trabajado en equipos de distintas metodologías (Scrum, Kanban, Waterfall),  
 me adapto a distintos entornos de desarrollo y mantengo una actitud autodidacta constante.  
